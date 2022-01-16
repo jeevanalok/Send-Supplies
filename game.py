@@ -72,6 +72,12 @@ images_set = [
 	]
 
 
+#background sound
+def background_score():
+	pygame.mixer.music.load("bgmusic.wav")
+	pygame.mixer.music.play(-1)
+
+background_score()	
 
 
 #classes for game sprites
