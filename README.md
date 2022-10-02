@@ -28,3 +28,6 @@ This simple game is made with pygame, a game library written in python
 
 Feel free to fork it and add your changes<br>
 GODSPEED!
+
+## Game video and Source code peek
+https://user-images.githubusercontent.com/40180496/161312452-9ee14cba-44b7-4298-a619-93d3e0538385.mp4
